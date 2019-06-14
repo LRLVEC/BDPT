@@ -1,0 +1,103 @@
+﻿  BDPT.cpp
+E:\files\C++\include\_Math.h(1109,1): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+E:\files\C++\include\GL\_OpenGL.h(271,1): warning C4312:  'type cast': conversion from 'int' to 'const void *' of greater size
+E:\files\C++\include\GL\_OpenGL.h(694,6): warning C4244:  'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\files\C++\include\GL\_OpenGL.h(704,6): warning C4244:  'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\files\C++\include\RayTracing\_RayTracing.h(351,42): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+E:\files\C++\include\RayTracing\_RayTracing.h(386,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+E:\files\C++\include\RayTracing\_RayTracing.h(704,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+E:\files\C++\include\RayTracing\_RayTracing.h(1341,33): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\RayTracing\_RayTracing.h(1343,33): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\RayTracing\_RayTracing.h(1345,33): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\RayTracing\_RayTracing.h(1347,33): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\RayTracing\_RayTracing.h(1349,33): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_BMP.h(98,22): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_BMP.h(104,22): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_BMP.h(121,22): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_BMP.h(127,22): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_STL.h(95,13): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_STL.h(96,22): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_STL.h(268,11): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_STL.h(287,11): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_STL.h(291,11): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\files\C++\include\_STL.h(291,11): message :  consider using '%zd' in the format string
+E:\files\C++\OpenGL\BDPT\BDPT\BDPT.cpp(421,23): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_Math.h(616,1): warning C4244:  '/=': conversion from 'double' to 'T', possible loss of data
+E:\files\C++\include\_Math.h(616,1): warning C4244:         with
+E:\files\C++\include\_Math.h(616,1): warning C4244:         [
+E:\files\C++\include\_Math.h(616,1): warning C4244:             T=int
+E:\files\C++\include\_Math.h(616,1): warning C4244:         ]
+E:\files\C++\include\_Math.h(609): message :  while compiling class template member function 'Math::vec<int,3> &Math::vec<int,3>::normaliaze(void)'
+E:\files\C++\include\_Math.h(1239): message :  see reference to function template instantiation 'Math::vec<int,3> &Math::vec<int,3>::normaliaze(void)' being compiled
+E:\files\C++\include\_Math.h(1183): message :  see reference to class template instantiation 'Math::vec<int,3>' being compiled
+E:\files\C++\include\_Math.h(627,1): warning C4244:  '/=': conversion from 'double' to 'T', possible loss of data
+E:\files\C++\include\_Math.h(627,1): warning C4244:         with
+E:\files\C++\include\_Math.h(627,1): warning C4244:         [
+E:\files\C++\include\_Math.h(627,1): warning C4244:             T=float
+E:\files\C++\include\_Math.h(627,1): warning C4244:         ]
+E:\files\C++\include\_Math.h(620): message :  while compiling class template member function 'Math::vec<T,4> &Math::vec<T,4>::normaliaze(int)'
+E:\files\C++\include\_Math.h(620): message :         with
+E:\files\C++\include\_Math.h(620): message :         [
+E:\files\C++\include\_Math.h(620): message :             T=float
+E:\files\C++\include\_Math.h(620): message :         ]
+E:\files\C++\include\RayTracing\_RayTracing.h(780): message :  see reference to function template instantiation 'Math::vec<T,4> &Math::vec<T,4>::normaliaze(int)' being compiled
+E:\files\C++\include\RayTracing\_RayTracing.h(780): message :         with
+E:\files\C++\include\RayTracing\_RayTracing.h(780): message :         [
+E:\files\C++\include\RayTracing\_RayTracing.h(780): message :             T=float
+E:\files\C++\include\RayTracing\_RayTracing.h(780): message :         ]
+E:\files\C++\include\_Math.h(110): message :  see reference to class template instantiation 'Math::vec<T,4>' being compiled
+E:\files\C++\include\_Math.h(110): message :         with
+E:\files\C++\include\_Math.h(110): message :         [
+E:\files\C++\include\_Math.h(110): message :             T=float
+E:\files\C++\include\_Math.h(110): message :         ]
+E:\files\C++\include\GL\_OpenGL.h(488): message :  see reference to class template instantiation 'Math::mat<float,4,4>' being compiled
+E:\files\C++\include\_Math.h(616,1): warning C4244:  '/=': conversion from 'double' to 'T', possible loss of data
+E:\files\C++\include\_Math.h(616,1): warning C4244:         with
+E:\files\C++\include\_Math.h(616,1): warning C4244:         [
+E:\files\C++\include\_Math.h(616,1): warning C4244:             T=float
+E:\files\C++\include\_Math.h(616,1): warning C4244:         ]
+E:\files\C++\include\_Math.h(609): message :  while compiling class template member function 'Math::vec<T,3> &Math::vec<T,3>::normaliaze(void)'
+E:\files\C++\include\_Math.h(609): message :         with
+E:\files\C++\include\_Math.h(609): message :         [
+E:\files\C++\include\_Math.h(609): message :             T=float
+E:\files\C++\include\_Math.h(609): message :         ]
+E:\files\C++\include\RayTracing\_RayTracing.h(952): message :  see reference to function template instantiation 'Math::vec<T,3> &Math::vec<T,3>::normaliaze(void)' being compiled
+E:\files\C++\include\RayTracing\_RayTracing.h(952): message :         with
+E:\files\C++\include\RayTracing\_RayTracing.h(952): message :         [
+E:\files\C++\include\RayTracing\_RayTracing.h(952): message :             T=float
+E:\files\C++\include\RayTracing\_RayTracing.h(952): message :         ]
+E:\files\C++\include\_Math.h(202,58): warning C4244:  '=': conversion from 'const T' to 'T', possible loss of data
+E:\files\C++\include\_Math.h(202,58): warning C4244:         with
+E:\files\C++\include\_Math.h(202,58): warning C4244:         [
+E:\files\C++\include\_Math.h(202,58): warning C4244:             T=double
+E:\files\C++\include\_Math.h(202,58): warning C4244:         ]
+E:\files\C++\include\_Math.h(202,58): warning C4244:         and
+E:\files\C++\include\_Math.h(202,58): warning C4244:         [
+E:\files\C++\include\_Math.h(202,58): warning C4244:             T=float
+E:\files\C++\include\_Math.h(202,58): warning C4244:         ]
+E:\files\C++\include\RayTracing\_RayTracing.h(363): message :  see reference to function template instantiation 'Math::vec<T,3>::vec<double,3>(const Math::vec<double,3> &)' being compiled
+E:\files\C++\include\RayTracing\_RayTracing.h(363): message :         with
+E:\files\C++\include\RayTracing\_RayTracing.h(363): message :         [
+E:\files\C++\include\RayTracing\_RayTracing.h(363): message :             T=float
+E:\files\C++\include\RayTracing\_RayTracing.h(363): message :         ]
+E:\files\C++\include\RayTracing\_RayTracing.h(966): message :  see reference to function template instantiation 'Math::vec<T,3>::vec<double,3>(const Math::vec<double,3> &)' being compiled
+E:\files\C++\include\RayTracing\_RayTracing.h(966): message :         with
+E:\files\C++\include\RayTracing\_RayTracing.h(966): message :         [
+E:\files\C++\include\RayTracing\_RayTracing.h(966): message :             T=float
+E:\files\C++\include\RayTracing\_RayTracing.h(966): message :         ]
+E:\files\C++\include\_Vector.h(164,17): warning C4018:  '>': signed/unsigned mismatch
+E:\files\C++\include\_Vector.h(162): message :  while compiling class template member function 'Vector<RayTracing::Model::Triangles::TriangleOriginData::TriangleOrigin> &Vector<RayTracing::Model::Triangles::TriangleOriginData::TriangleOrigin>::malloc(unsigned int)'
+E:\files\C++\include\RayTracing\_RayTracing.h(1626): message :  see reference to function template instantiation 'Vector<RayTracing::Model::Triangles::TriangleOriginData::TriangleOrigin> &Vector<RayTracing::Model::Triangles::TriangleOriginData::TriangleOrigin>::malloc(unsigned int)' being compiled
+E:\files\C++\include\RayTracing\_RayTracing.h(602): message :  see reference to class template instantiation 'Vector<RayTracing::Model::Triangles::TriangleOriginData::TriangleOrigin>' being compiled
+E:\files\C++\include\_Vector.h(167,21): warning C4018:  '>': signed/unsigned mismatch
+E:\files\C++\include\_Vector.h(345,22): warning C4018:  '<': signed/unsigned mismatch
+E:\files\C++\include\_Vector.h(337): message :  while compiling class template member function 'Vector<STL::Triangle> &Vector<STL::Triangle>::omit(unsigned int)'
+E:\files\C++\include\_STL.h(220): message :  see reference to function template instantiation 'Vector<STL::Triangle> &Vector<STL::Triangle>::omit(unsigned int)' being compiled
+E:\files\C++\include\_STL.h(25): message :  see reference to class template instantiation 'Vector<STL::Triangle>' being compiled
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 614 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB '㧀土䁰圝Ջ' was not found with 'glew32s.lib(glew.obj)' or at '㧀土䁰圝Ջ'; linking object as if no debug info
+  BDPT.vcxproj -> E:\files\C++\OpenGL\BDPT\x64\Release\BDPT.exe

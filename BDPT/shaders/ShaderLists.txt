@@ -1,0 +1,25 @@
+Program:	Renderer
+{
+	Vertex		0
+	Fragment	0
+}
+Program:	TrianglePre
+{
+	Compute		0
+}
+Program:	CirclePre
+{
+	Compute		0
+}
+Program:	DecayOriginPre
+{
+	Compute		0
+}
+Program:	DecayOrigin
+{
+	Compute		0
+}
+Program:	CountLightSources
+{
+	Compute		0
+}
